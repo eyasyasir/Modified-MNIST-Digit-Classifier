@@ -3,7 +3,7 @@
 This model was created for the purpose of Assignment 4 of the MAIS 202: Winter 2021 bootcamp. The objective of this assignment was to design and implement a system to classify images of handwritten digits, specifically predicting the largest number present in the image. The assignment was run as a [Kaggle competition](https://www.kaggle.com/c/mais-202-winter-2021-kaggle-comp/overview).
 ## Instructions
 
- 1. Add a shortcut of the [dataset](https://drive.google.com/drive/folders/14Z5fhU01pcDhV0QMgOXhnvxRb0HLWxJs?usp=sharing) to your personal drive.
+ 1. Add a shortcut of the [linked folder](https://drive.google.com/drive/folders/14Z5fhU01pcDhV0QMgOXhnvxRb0HLWxJs?usp=sharing) to your personal drive.
  2. To train the model simply run the [model training colab notebook](https://colab.research.google.com/drive/1mru1cLZShj7X1WYFqaduvEkPjlW0uh_I).
  
  *Make sure to assign a name for the model's weight to the `WEIGHTS_FILENAME` variable in the last code cell. (For example: 'model_test.h5')*
