@@ -10,7 +10,7 @@ This model was created for the purpose of Assignment 4 of the MAIS 202: Winter 2
 
  3. To make predictions on the test_x.npy file provided in the dataset folder, simply run the [model predictions colab notebook](https://colab.research.google.com/drive/17eu1rKGpcmZX9ClhMuvo1on9JfomduMY#scrollTo=M6bFnpXWp_IW). 
  
- *Make sure to assign a name for the model's weight to the `WEIGHTS_FILENAME` variable in the last code cell (the filename should be the same as the one used in step 2.*
+ *Make sure to assign a name for the model's weight to the `WEIGHTS_FILENAME` variable in the first code cell (the filename should be the same as the one used in step 2.*
 
  4. The the predictions will be saved to the virtual machine's local storage with the filename `predictions.csv`.
 
